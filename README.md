@@ -1,8 +1,9 @@
 # About me
 
-Loves programming and science. 
+Loves programming and science. Make something.
 
 Learning Data Science with Python and Visualization with Tableau.
+React, too.
 
 ## Skills
 - TeX
