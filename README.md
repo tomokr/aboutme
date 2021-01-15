@@ -5,6 +5,8 @@ Loves programming and science. Make something.
 Learning Data Science with Python and Visualization with Tableau.
 React, too.
 
+Also, attacking [kaggle!](https://www.kaggle.com/tomoshimo)
+
 ## Skills
 - TeX
 - HTML/JS/CSS
