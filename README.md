@@ -38,7 +38,7 @@
 ### Coding :toolbox:
 - Python linter for Jupyter notebook
 
-[pycodestyle_magic](https://github.com/mattijn/pycodestyle_magic)
+:crystal_ball: [pycodestyle_magic](https://github.com/mattijn/pycodestyle_magic)
 
 - Useful tools and tips for Jupyter notebook
 
