@@ -1,13 +1,20 @@
-# About me
+# About me :raising_hand_woman:	
 
-Loves programming and science. Make something.
+:computer: Loves programming and science. :microscope:
 
-Learning Data Science with Python and Visualization with Tableau.
-React, too.
+:wrench: Make something. :thread:
 
-Also, attacking [kaggle!](https://www.kaggle.com/tomoshimo)
+:doughnut: Love doughnuts and Latte. :coffee:
 
-## Skills
+:snake: Learning Data Science with Python and Visualization with Tableau. :bar_chart:
+
+Tableau leaning sample -> [NYC Airbnb]:hotel:(https://public.tableau.com/views/AirbnbListingsinNewYorkCity_16062726346790/1_1?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
+
+:atom_symbol: Leaning React, too.
+
+:chart_with_upwards_trend: Also, attacking [kaggle!](https://www.kaggle.com/tomoshimo) :medal_sports:
+
+## Skills :muscle:
 - TeX
 - HTML/JS/CSS
 - Objective-C
@@ -17,25 +24,28 @@ Also, attacking [kaggle!](https://www.kaggle.com/tomoshimo)
 - Excel VBA
 - Python
 
-## Softwares
+## Softwares :desktop_computer:
 - MS Office
 - Adobe Photoshop / Illustrator
 - MATLAB
 - ImageJ / Fiji
 
-## Useful links
+## Hobby :bowtie:
+- Arduino
 
-### Coding
-Python linter for Jupyter notebook
+## Useful links :link:
+
+### Coding :toolbox:
+- Python linter for Jupyter notebook
 [pycodestyle_magic](https://github.com/mattijn/pycodestyle_magic)
 
-Useful tools and tips for Jupyter notebook
-[cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/)
-[Data Science is Software](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/lectures/3.0-refactoring.ipynb)
+- Useful tools and tips for Jupyter notebook
+-- [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/)
+-- [Data Science is Software](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/lectures/3.0-refactoring.ipynb)
 
 
-### Creating Resume
-- English
+### Creating Resume :pencil:
+- English :us:
 [Overleaf]()
-- Japanese
+- Japanese :jp:
 [履歴書メーカー](https://www.resumemaker.jp/)
