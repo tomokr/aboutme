@@ -8,7 +8,7 @@
 
 :snake: Learning Data Science with Python and Visualization with Tableau. :bar_chart:
 
-Tableau leaning sample -> [NYC Airbnb]:hotel:(https://public.tableau.com/views/AirbnbListingsinNewYorkCity_16062726346790/1_1?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
+:hotel: Tableau leaning sample -> [NYC Airbnb](https://public.tableau.com/views/AirbnbListingsinNewYorkCity_16062726346790/1_1?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
 
 :atom_symbol: Leaning React, too.
 
