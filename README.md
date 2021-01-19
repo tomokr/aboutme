@@ -2,9 +2,9 @@
 
 :computer: Loves programming and science. :microscope:
 
-:wrench: Make something. :thread:
+:wrench: Makes something. :thread:
 
-:doughnut: Love doughnuts and Latte. :coffee:
+:doughnut: Loves doughnuts and Latte. :coffee:
 
 :snake: Learning Data Science with Python and Visualization with Tableau. :bar_chart:
 
