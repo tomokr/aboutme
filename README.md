@@ -37,11 +37,14 @@
 
 ### Coding :toolbox:
 - Python linter for Jupyter notebook
+
 [pycodestyle_magic](https://github.com/mattijn/pycodestyle_magic)
 
 - Useful tools and tips for Jupyter notebook
--- [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/)
--- [Data Science is Software](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/lectures/3.0-refactoring.ipynb)
+
+:cookie: [cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science/)
+
+:floppy_disk: [Data Science is Software](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/lectures/3.0-refactoring.ipynb)
 
 
 ### Creating Resume :pencil:
