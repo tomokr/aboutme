@@ -1,8 +1,6 @@
 # About me :raising_hand_woman:	
 
-:computer: Loves programming and science. :microscope:
-
-:wrench: Makes something. :thread:
+:wrench: Loves programming:computer:, science:microscope:,  and making something. :thread:
 
 :doughnut: Loves doughnuts and Latte. :coffee:
 
