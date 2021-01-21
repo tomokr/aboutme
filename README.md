@@ -13,14 +13,14 @@
 :chart_with_upwards_trend: Also, attacking [kaggle!](https://www.kaggle.com/tomoshimo) :medal_sports:
 
 ## Skills :muscle:
-- TeX
+- Python
+- MATLAB
 - HTML/JS/CSS
 - Objective-C
+- Excel VBA
+- TeX
 - Perl
 - Ruby
-- MATLAB
-- Excel VBA
-- Python
 
 ## Softwares :desktop_computer:
 - MS Office
